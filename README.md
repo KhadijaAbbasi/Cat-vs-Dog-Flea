@@ -25,4 +25,6 @@
     Model tested on unseen images (cats and dogs fleas).
     Predictions were consistent with visual results.
 
+Here is an image of a flea
+
 ![Home Page](IMG_4732.JPG)
